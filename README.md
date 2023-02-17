@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StoutB or Fausto. Im from Argentina, and actually living on Buenos Aires.
-- 👀 I’m interested in Front-end, UI/UX and 
-- 🌱 I’m currently learning Frontend developer from Oracle Next Education
+- 👀 I’m interested in Front-end, UI/UX
+- 🌱 I’m currently learning Frontend developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
