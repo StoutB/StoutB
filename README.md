@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @StoutB or Fausto. Im from Argentina, and actually living on Buenos Aires.
-- 👀 I’m interested in Data Sciencist
-- 🌱 I’m currently learning Data Analyst
+Data Analyst recién graduado | Estudiante de Data Science
+Manejo de datos, visualización y análisis con Python, MySQL, Seaborn, Plotly y más.
+Curioso, autodidacta y motivado por los desafíos.
 
 
 <!---
